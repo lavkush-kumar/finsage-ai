@@ -4,9 +4,6 @@ A modern, AI-powered financial management platform built with Next.js, Supabase,
 
 ---
 
-## 📺 Demo
-[Watch the YouTube Tutorial](https://youtu.be/egS6fnZAdzk)
-
 ---
 
 ## 🚀 Features
