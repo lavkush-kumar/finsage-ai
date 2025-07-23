@@ -1,5 +1,7 @@
 # Welth: Full Stack AI Finance Platform
 
+[Live Project](https://finsage-ai-unzd.vercel.app/)
+
 A modern, AI-powered financial management platform built with Next.js, Supabase, Tailwind CSS, Prisma, Inngest, ArcJet, and Shadcn UI. Track, analyze, and optimize your spending with real-time insights and automation.
 
 ---
