@@ -102,6 +102,3 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 ---
 
-## 📄 License
-
-This project is for educational/demo purposes. Add a license if you plan to use it in production.
